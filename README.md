@@ -16,10 +16,13 @@ A tech blog with a login/signup and comment feature.
 ## Installation
 
 N/A
+https://jakezook-tech-blog-c1b70ddda1e1.herokuapp.com/
 
 ## Usage
 
-Sign in or login at the top and then you are able to create a new post. On the home page, you can view all post and you have thew ability to leave a comment on each one by clicking on it.
+Sign in or log in at the top and then you are able to create a new post. On the home page, you can view all posts and you have the ability to leave a comment on each one by clicking on it.
+
+<img width="1717" alt="Screenshot 2023-10-11 090330" src="https://github.com/JakeZook/Tech-Blog/assets/132726907/075e5eb7-5c9b-488c-a67f-072b8da84662">
 
 ## Tests
 
